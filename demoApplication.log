@@ -1,0 +1,1510 @@
+[Thread-1] DEBUG com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - Writer thread is started
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - Writer thread is started
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 1 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 2 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 3 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 4 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 5 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 6 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 7 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 8 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 9 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 10 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 11 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 12 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 13 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 14 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 15 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 16 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 17 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 18 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 19 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 20 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - Writer thread is started
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 1 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 2 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 3 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 4 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 5 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 6 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 7 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 8 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 9 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - Writer thread is started
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - Remover thread is started
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 0
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 1 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 1
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 2 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 2
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 1 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 1
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 3 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 2
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 4 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 3
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 3 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 2
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 5 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 3
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 6 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 4
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 7 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 5
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 6 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 4
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 8 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 5
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 9 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 6
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 8 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 5
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 10 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 6
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 11 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 7
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 12 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 8
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 11 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 7
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 13 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 8
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 14 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 9
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 13 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 8
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 15 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 9
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 16 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 10
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 17 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 11
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 16 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 10
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 18 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 11
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 19 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 12
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 18 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 11
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 20 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 12
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 21 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 13
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 22 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 14
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 21 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 13
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 23 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 14
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 24 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 15
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 23 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 14
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 25 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 15
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 26 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 16
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 27 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 17
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 26 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 16
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 28 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 17
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 29 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 18
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 28 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 17
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 30 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 18
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 31 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 19
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 32 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 20
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 31 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 19
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 33 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 20
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 34 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 21
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 33 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 20
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 35 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 21
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 36 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 22
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 37 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 23
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 36 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 22
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 38 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 23
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 39 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 24
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 38 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 23
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 40 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 24
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 41 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 25
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 42 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 26
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 41 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 25
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 43 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 26
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 44 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 27
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 43 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 26
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 45 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - Writer thread is started
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - Remover thread is started
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 0
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 1 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 1
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 2 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 2
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 3 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 3
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 2 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 2
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 4 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 3
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 5 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 4
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 6 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 5
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 5 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 4
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 7 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 5
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 8 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 6
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 9 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 7
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 8 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 6
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 10 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 7
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 11 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 8
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 12 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 9
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 13 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 10
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 12 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 9
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 14 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 10
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 15 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 11
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 16 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 12
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 15 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 11
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 17 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 12
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 18 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 13
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 19 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 14
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 18 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 13
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 20 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 14
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 21 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 15
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 22 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 16
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 23 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 17
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 22 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 16
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 24 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 17
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 25 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - Writer thread is started
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - Remover thread is started
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 0
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 1 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 1
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 2 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 2
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 1 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 1
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 3 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 2
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 4 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 3
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 3 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 2
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 5 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 3
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 6 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 4
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 5 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 3
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 7 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 4
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 8 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 5
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 9 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 6
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 8 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 5
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 10 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 6
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 11 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 7
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 10 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 6
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 12 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 7
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 13 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 8
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 14 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 9
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 13 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 8
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 15 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 9
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 16 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 10
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 15 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 9
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 17 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 10
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 18 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 11
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 17 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 10
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 19 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 11
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 20 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 12
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 21 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 13
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 20 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 12
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 22 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 13
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 23 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 14
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 22 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 13
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 24 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 14
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 25 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 15
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 24 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 14
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 26 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 15
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 27 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 16
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 26 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 15
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 28 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 16
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 29 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 17
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 30 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 18
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 29 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 17
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 31 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 18
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 32 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 19
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 31 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 18
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 33 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 19
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 34 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 20
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 33 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 19
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 35 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 20
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 36 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 21
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 37 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 22
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 36 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 21
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 38 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 22
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 39 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 23
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 38 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 22
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 40 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 23
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 41 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 24
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 40 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 23
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 42 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 24
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 43 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 25
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 44 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 26
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 43 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 25
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 45 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 26
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 46 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 27
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 45 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 26
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 47 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 27
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 48 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 28
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 47 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 27
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 49 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 28
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 50 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 29
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 51 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 30
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 50 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 29
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 52 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 30
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 53 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 31
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 52 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 30
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 54 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 31
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 55 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 32
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 54 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 31
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 56 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 32
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 57 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 33
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 58 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 34
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 57 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 33
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 59 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 34
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 60 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 35
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 59 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 34
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 61 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 35
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 62 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 36
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 61 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 35
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 63 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 36
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 64 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 37
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 65 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 38
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 64 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 37
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 66 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 38
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 67 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 39
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 66 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 38
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 68 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 39
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 69 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 40
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 68 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 39
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 70 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 40
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 71 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 41
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 72 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 42
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 71 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 41
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 73 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 42
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 74 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 43
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 73 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 42
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 75 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 43
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 76 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 44
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 75 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 43
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 77 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 44
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 78 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 45
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 79 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 46
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 78 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 45
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 80 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 46
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 81 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 47
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 80 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 46
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 82 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 47
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 83 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 48
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 82 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 47
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 84 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 48
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 85 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 49
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 86 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 50
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 85 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 49
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 87 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 50
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 88 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 51
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 87 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 50
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 89 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 51
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 90 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 52
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 89 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 51
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 91 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 52
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 92 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 53
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 93 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 54
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 92 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 53
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 94 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 54
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 95 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 55
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 94 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 54
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 96 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 55
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 97 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 56
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 96 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 55
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 98 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 56
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 99 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 57
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 100 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 58
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 99 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 57
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 101 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 58
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 102 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 59
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 101 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 58
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 103 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 59
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 104 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 60
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 103 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 59
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 105 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 60
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 106 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 61
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 107 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 62
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 106 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 61
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 108 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 62
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 109 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 63
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 108 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 62
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 110 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 63
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 111 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 64
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 110 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 63
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 112 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 64
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 113 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 65
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 114 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 66
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 113 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 65
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 115 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 66
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 116 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 67
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 115 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 66
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 117 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 67
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 118 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 68
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 117 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 67
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 119 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 68
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 120 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 69
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 121 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 70
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 120 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 69
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 122 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 70
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 123 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 71
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 122 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 70
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 124 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 71
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 125 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 72
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 124 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 71
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 126 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 72
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 127 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 73
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 128 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 74
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 127 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 73
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 129 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 74
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 130 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 75
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 129 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 74
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 131 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 75
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 132 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 76
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 131 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 75
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 133 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 76
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 134 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 77
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 135 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 78
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 134 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 77
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 136 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 78
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 137 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 79
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 136 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 78
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 138 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 79
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 139 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 80
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 138 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 79
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 140 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 80
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 141 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 81
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 142 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 82
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 141 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 81
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 143 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 82
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 144 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 83
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 143 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 82
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 145 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 83
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 146 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 84
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 145 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 83
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 147 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 84
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 148 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 85
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 149 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 86
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 148 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 85
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 150 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 86
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 151 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 87
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 150 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 86
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 152 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 87
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 153 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 88
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 152 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 87
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 154 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 88
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 155 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 89
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 156 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 90
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 155 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 89
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 157 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 90
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 158 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 91
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 157 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 90
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 159 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 91
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 160 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 92
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 159 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 91
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 161 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 92
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 162 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 93
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 163 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 94
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 162 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 93
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 164 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 94
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 165 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 95
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 164 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 94
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 166 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 95
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 167 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 96
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 166 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 95
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 168 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 96
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 169 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 97
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 170 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 98
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 169 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 97
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 171 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 98
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 172 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 99
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 171 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 98
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 173 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 99
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 174 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 100
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 173 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 99
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 175 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 100
+[Thread-1] WARN  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - List exceeds the limit, 5 seconds wait for adding new element
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 100
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 174 removed from list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 99
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 172 removed from list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 98
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 170 removed from list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 97
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 168 removed from list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 96
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 167 removed from list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 95
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 165 removed from list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 94
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 163 removed from list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 93
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 161 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 92
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 177 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 93
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 178 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 94
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 179 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 95
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 178 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 94
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 180 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 95
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 181 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 96
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 180 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 95
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 182 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 96
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 183 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 97
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 182 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 96
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 184 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 97
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 185 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 98
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 186 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 99
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 185 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 98
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 187 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 99
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 188 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 100
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 187 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 99
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 189 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 100
+[Thread-1] WARN  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - List exceeds the limit, 5 seconds wait for adding new element
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 100
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 188 removed from list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 99
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 186 removed from list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 98
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 184 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - Writer thread is started
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - Remover thread is started
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 0
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 1 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 1
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 2 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 2
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 1 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 1
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 3 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 2
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 4 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 3
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 5 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 4
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 4 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 3
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 6 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 4
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 7 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 5
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 8 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 6
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 7 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 5
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 9 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 6
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 10 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 7
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 11 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 8
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 10 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 7
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 12 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 8
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 13 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 9
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 14 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 10
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 13 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 9
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 15 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 10
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 16 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 11
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 17 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 12
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 16 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 11
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 18 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 12
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 19 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 13
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 20 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 14
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 19 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 13
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 21 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 14
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 22 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 15
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 23 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 16
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 22 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 15
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 24 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 16
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 25 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 17
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 26 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 18
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 25 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 17
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 27 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 18
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 28 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 19
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 29 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 20
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 28 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 19
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 30 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 20
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 31 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 21
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 32 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 22
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 31 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 21
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 33 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 22
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 34 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 23
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 35 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 24
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 34 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 23
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 36 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 24
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 37 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 25
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 38 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 26
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 37 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 25
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 39 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 26
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 40 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 27
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 41 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 28
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 40 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 27
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 42 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 28
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 43 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 29
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 44 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 30
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 43 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 29
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 45 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 30
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 46 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 31
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 47 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 32
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 46 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 31
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 48 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 32
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 49 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 33
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 50 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 34
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 49 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 33
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 51 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 34
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 52 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 35
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 53 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 36
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 52 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 35
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 54 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 36
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 55 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 37
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 56 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 38
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 55 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 37
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 57 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 38
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 58 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 39
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 59 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 40
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 58 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 39
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 60 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 40
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 61 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 41
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 62 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 42
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 61 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 41
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 63 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 42
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 64 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 43
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 65 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 44
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 64 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 43
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 66 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 44
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 67 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 45
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 68 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 46
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 67 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 45
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 69 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 46
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 70 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 47
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 71 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 48
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 70 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 47
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 72 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 48
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 73 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 49
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 74 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 50
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 73 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 49
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 75 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 50
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 76 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 51
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 77 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 52
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 76 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 51
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 78 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 52
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 79 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 53
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 80 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 54
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 79 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 53
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 81 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 54
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 82 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 55
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 83 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 56
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 82 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 55
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 84 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 56
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 85 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 57
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 86 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 58
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 85 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 57
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 87 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 58
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 88 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 59
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 89 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 60
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 88 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 59
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 90 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 60
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 91 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 61
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 92 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 62
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 91 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 61
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 93 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 62
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 94 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 63
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 95 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 64
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 94 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 63
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 96 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 64
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 97 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 65
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 98 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 66
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 97 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 65
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 99 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 66
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 100 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 67
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 101 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 68
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 100 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 67
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 102 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 68
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 103 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 69
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 104 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 70
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 103 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 69
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 105 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 70
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 106 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 71
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 107 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 72
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 106 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 71
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 108 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 72
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 109 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 73
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 110 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 74
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 109 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 73
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 111 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 74
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 112 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 75
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 113 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 76
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 112 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 75
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 114 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 76
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 115 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 77
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 116 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 78
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 115 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 77
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 117 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 78
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 118 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 79
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 119 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 80
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 118 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 79
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 120 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 80
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 121 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 81
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 122 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 82
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 121 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 81
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 123 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 82
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 124 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 83
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 125 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 84
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 124 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 83
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 126 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 84
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 127 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 85
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 128 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 86
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 127 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 85
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 129 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 86
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 130 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 87
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 131 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - Writer thread is started
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - Remover thread is started
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 0
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 1 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 1
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 2 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 2
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 3 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 3
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 4 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 4
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 3 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 3
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 5 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 4
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 6 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 5
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 7 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 6
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 8 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 7
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 9 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 8
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 8 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 7
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 10 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 8
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 11 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 9
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 12 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 10
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 13 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 11
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 14 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 12
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 13 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 11
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 15 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 12
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 16 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 13
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 17 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 14
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 18 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 15
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 19 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 16
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 18 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 15
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 20 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 16
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 21 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 17
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 22 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 18
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 23 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 19
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 24 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 20
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 23 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 19
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 25 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 20
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 26 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 21
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 27 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 22
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 28 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 23
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 29 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 24
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 28 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 23
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 30 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 24
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 31 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 25
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 32 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 26
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 33 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 27
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 34 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 28
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 33 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 27
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 35 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 28
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 36 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 29
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 37 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 30
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 38 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 31
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 39 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 32
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 38 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 31
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 40 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 32
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 41 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 33
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 42 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 34
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 43 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 35
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 44 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 36
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 43 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 35
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 45 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 36
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 46 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 37
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 47 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 38
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 48 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 39
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 49 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 40
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 48 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 39
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 50 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 40
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 51 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 41
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 52 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 42
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 53 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 43
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 54 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 44
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 53 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 43
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 55 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 44
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 56 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 45
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 57 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 46
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 58 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 47
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 59 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 48
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 58 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 47
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 60 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 48
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 61 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 49
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 62 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 50
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 63 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 51
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 64 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 52
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 63 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 51
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 65 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 52
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 66 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 53
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 67 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 54
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 68 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 55
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 69 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 56
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 68 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 55
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 70 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 56
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 71 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 57
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 72 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 58
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 73 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 59
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 74 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 60
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 73 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 59
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 75 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 60
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 76 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 61
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 77 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 62
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 78 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 63
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 79 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 64
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 78 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 63
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 80 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 64
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 81 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 65
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 82 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 66
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 83 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 67
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 84 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 68
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 83 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 67
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 85 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 68
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 86 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 69
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 87 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 70
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 88 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 71
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 89 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 72
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 88 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 71
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 90 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 72
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 91 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 73
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 92 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 74
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 93 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 75
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 94 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 76
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 93 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 75
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 95 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 76
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 96 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 77
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 97 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 78
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 98 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 79
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 97 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 78
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 99 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 79
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 100 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 80
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 101 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 81
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 102 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 82
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 103 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 83
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 104 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 84
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 103 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 83
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 105 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 84
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 106 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 85
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 107 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 86
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 108 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 87
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 107 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 86
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 109 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 87
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 110 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 88
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 111 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 89
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 112 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 90
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 113 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 91
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 112 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 90
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 114 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 91
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 115 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 92
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 116 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 93
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 117 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 94
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 118 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 95
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 117 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 94
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 119 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 95
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 120 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 96
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 121 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 97
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 122 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 98
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 123 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 99
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 122 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 98
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 124 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 99
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 125 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 100
+[Thread-1] WARN  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - List exceeds the limit, 5 seconds wait for adding new element
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 100
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 124 removed from list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 99
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 123 removed from list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 98
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 121 removed from list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 97
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 120 removed from list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 96
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 119 removed from list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 95
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 118 removed from list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 94
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 116 removed from list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 93
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 115 removed from list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 92
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 114 removed from list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 91
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 113 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 90
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 127 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 91
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 128 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 92
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 129 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 93
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 128 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 92
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 130 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 93
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 131 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 94
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 132 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 95
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 133 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 96
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 134 added to list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 97
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 133 removed from list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 96
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 135 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 97
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 136 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 98
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 137 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 99
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - 138 added to list
+[Thread-1] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 100
+[Thread-1] WARN  com.gunduznurullayev.lsim.interview.concurrency.ListWriterThread  - List exceeds the limit, 5 seconds wait for adding new element
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 100
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 137 removed from list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 99
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 136 removed from list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 98
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 135 removed from list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 97
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 134 removed from list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 96
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 132 removed from list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 95
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 131 removed from list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 94
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 130 removed from list
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.utils.ListWrapper  - size: 93
+[Thread-3] INFO  com.gunduznurullayev.lsim.interview.concurrency.ListRemoverThread  - 129 removed from list
